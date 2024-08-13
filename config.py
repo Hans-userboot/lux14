@@ -18,7 +18,7 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://lux14:lux15@cluster0.9pix
 
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
 
-FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1001620868853"))
+FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1001808770083"))
 FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "0"))
 FORCE_SUB_3 = int(os.environ.get("FORCE_SUB_3", "0"))
 FORCE_SUB_4 = int(os.environ.get("FORCE_SUB_4", "0"))
